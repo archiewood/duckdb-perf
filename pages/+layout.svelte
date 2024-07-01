@@ -5,6 +5,6 @@
 	export let data;
 </script>
 
-<EvidenceDefaultLayout {data} hideSidebar fullWidth hideTOC>
+<EvidenceDefaultLayout {data} hideSidebar fullWidth hideTOC githubRepo=https://github.com/archiewood/duckdb-perf>
 	<slot slot="content" />
 </EvidenceDefaultLayout>
