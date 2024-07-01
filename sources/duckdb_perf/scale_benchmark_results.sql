@@ -1,0 +1,1 @@
+select * from scale_benchmark_results

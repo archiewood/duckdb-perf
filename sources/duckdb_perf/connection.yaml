@@ -1,0 +1,5 @@
+# This file was automatically generated
+name: duckdb_perf
+type: duckdb
+options:
+  filename: perf.duckdb
